@@ -1,0 +1,1 @@
+__NOTOC__'''Inherits:''' [[VisualShaderNodeUniform GD|VisualShaderNodeUniform]] '''<''' [[VisualShaderNode GD|VisualShaderNode]] '''<''' [[Resource GD|Resource]] '''<''' [[Reference GD|Reference]] '''<''' [[Object GD|Object]]A boolean uniform to be used within the visual shader graph.== Description ==Translated to {{Span|uniform bool}} in the shader language.

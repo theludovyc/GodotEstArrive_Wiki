@@ -1,0 +1,1 @@
+__NOTOC__'''Inherits:''' [[Resource GD|Resource]] '''<''' [[Reference GD|Reference]] '''<''' [[Object GD|Object]]Stores information about the audio buses.== Description ==Stores position, muting, solo, bypass, effects, effect position, volume, and the connections between buses. See [[AudioServer GD|AudioServer]] for usage.

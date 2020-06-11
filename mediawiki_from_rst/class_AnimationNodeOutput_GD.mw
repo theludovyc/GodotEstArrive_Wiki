@@ -1,0 +1,1 @@
+__NOTOC__'''Inherits:''' [[AnimationNode GD|AnimationNode]] '''<''' [[Resource GD|Resource]] '''<''' [[Reference GD|Reference]] '''<''' [[Object GD|Object]]Generic output node to be added to [[AnimationNodeBlendTree GD|AnimationNodeBlendTree]].== Tutorials ==*  :doc:`../tutorials/animation/animation_tree`

@@ -1,0 +1,1 @@
+__NOTOC__'''Inherits:''' [[Physics2DServer GD|Physics2DServer]] '''<''' [[Object GD|Object]]Software implementation of [[Physics2DServer GD|Physics2DServer]].== Description ==This class exposes no new methods or properties and should not be used, as [[Physics2DServer GD|Physics2DServer]] automatically selects the best implementation available.

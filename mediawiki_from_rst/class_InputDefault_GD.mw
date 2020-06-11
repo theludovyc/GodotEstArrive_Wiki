@@ -1,0 +1,1 @@
+__NOTOC__'''Inherits:''' [[Input GD|Input]] '''<''' [[Object GD|Object]]Default implementation of the [[Input GD|Input]] class.== Description ==Default implementation of the [[Input GD|Input]] class, used internally by the editor and games for default input management.

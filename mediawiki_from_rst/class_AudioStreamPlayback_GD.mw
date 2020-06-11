@@ -1,0 +1,1 @@
+__NOTOC__'''Inherits:''' [[Reference GD|Reference]] '''<''' [[Object GD|Object]]'''Inherited By:''' [[AudioStreamPlaybackResampled GD|AudioStreamPlaybackResampled]]Meta class for playing back audio.== Description ==Can play, loop, pause a scroll through audio. See [[AudioStream GD|AudioStream]] and [[AudioStreamOGGVorbis GD|AudioStreamOGGVorbis]] for usage.
