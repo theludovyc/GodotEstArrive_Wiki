@@ -1,0 +1,1 @@
+__NOTOC__'''Inherits:''' [[VisualShaderNode GD|VisualShaderNode]] '''<''' [[Resource GD|Resource]] '''<''' [[Reference GD|Reference]] '''<''' [[Object GD|Object]]Calculates a dot product of two vectors within the visual shader graph.== Description ==Translates to {{Span|dot(a, b)}} in the shader language.

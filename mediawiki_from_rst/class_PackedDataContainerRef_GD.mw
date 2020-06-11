@@ -1,0 +1,1 @@
+__NOTOC__'''Inherits:''' [[Reference GD|Reference]] '''<''' [[Object GD|Object]]Reference version of [[PackedDataContainer GD|PackedDataContainer]].== Methods =={| class="wikitable | int|| [[#size|size]] '''(''' ''')''' const |}== Method Descriptions ===== size ===*  int '''size ( )''' const
